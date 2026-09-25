@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scikit-learn
+nltk
+requests
+beautifulsoup4
+pillow
+pytesseract
